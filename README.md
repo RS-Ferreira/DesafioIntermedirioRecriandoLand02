@@ -34,4 +34,4 @@ Aqui está uma prévia do resultado final do projeto desenvolvido
 
 ## Contato
 Se você tiver alguma dúvida ou quiser entrar em contato, você pode me enviar uma mensagem pelo
-[LinkedIn](https://www.linkedin.com/in/ronaldosf)."
+[LinkedIn](https://www.linkedin.com/in/ronaldosf).
