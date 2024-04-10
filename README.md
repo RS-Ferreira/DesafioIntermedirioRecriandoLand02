@@ -22,7 +22,7 @@ Conceitos aplicados
 ## Layout do desafio
 <table>
   <tr>
-    <td><img src=".github/screen(1).png"></td>
+    <td><img src=".github/screen1.png"></td>
   </tr>   
 </table>
 
